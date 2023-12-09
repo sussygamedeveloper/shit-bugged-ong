@@ -1,2 +1,2 @@
 # FNAF2-NOHACKS
-sorry for taking so long
+you need to fork the repo and host it urself
